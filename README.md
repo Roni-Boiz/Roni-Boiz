@@ -14,14 +14,13 @@
 - ⚡ Fun fact: I am an **Antiquary**.
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-  
-<a href="https://twitter.com/ronilasanjuula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ronilasanjuula" height="30" width="40" /></a> 
-<a href="https://linkedin.com/in/ronila-sanjula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronila-sanjula" height="30" width="40" /></a> 
-<a href="https://stackoverflow.com/users/donrodda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="donrodda" height="30" width="40" /></a> 
-<a href="https://www.youtube.com/c/ronila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ronila" height="30" width="40" /></a> 
-<a href="https://www.hackerrank.com/donrodda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="donrodda" height="30" width="40" /></a>
-  
+<a href="https://twitter.com/ronilasanjuula" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ronilasanjuula" height="30" width="40" /></a> 
+<a href="https://linkedin.com/in/ronila-sanjula" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronila-sanjula" height="30" width="40" /></a> 
+<a href="https://stackoverflow.com/users/donrodda" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="donrodda" height="30" width="40" /></a> 
+<a href="https://www.youtube.com/c/ronila" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ronila" height="30" width="40" /></a> 
+<a href="https://www.hackerrank.com/donrodda" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="donrodda" height="30" width="40" /></a> 
 </p>
 
 
