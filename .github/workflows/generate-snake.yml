@@ -38,16 +38,9 @@ jobs:
       - run: git status
 
       # Push the changes
-      - name: Push changes
-        uses: ad-m/github-push-action@master
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-          force: true
-
-      - uses: crazy-max/ghaction-github-pages@v2.5.0
-        with:
-          # the output branch we mentioned above
           target_branch: output
           build_dir: dist
         env:
