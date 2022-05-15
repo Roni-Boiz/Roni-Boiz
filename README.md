@@ -18,11 +18,16 @@
 <p align="left">
 <a href="https://twitter.com/ronilasanjuula" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ronilasanjuula" height="30" width="40" /></a> 
 <a href="https://linkedin.com/in/ronila-sanjula" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronila-sanjula" height="30" width="40" /></a> 
-<a href="https://stackoverflow.com/users/donrodda" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="donrodda" height="30" width="40" /></a> 
+<a href="https://stackoverflow.com/users/17787646/roni-boiz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="roni-boiz" height="30" width="40" /></a> 
 <a href="https://www.youtube.com/c/ronila" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ronila" height="30" width="40" /></a> 
-<a href="https://www.hackerrank.com/donrodda" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="donrodda" height="30" width="40" /></a> 
+<a href="https://www.hackerrank.com/Roni_Boiz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="roni_boiz" height="30" width="40" /></a> 
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roni-boiz&show_icons=true&locale=en&layout=compact" alt="roni-boiz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roni-boiz&show_icons=true&locale=en" alt="roni-boiz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roni-boiz&" alt="roni-boiz" /></p>
 
 ![snake gif](https://github.com/roni-boiz/roni-boiz/blob/output/github-contribution-grid-snake.svg)
 
