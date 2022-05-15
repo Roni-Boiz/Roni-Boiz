@@ -12,9 +12,8 @@
 - 📫 How to reach me: **contact-me@gmail.com**
 - 📄 Know about my experiences [https://mysite.com](https://mysite.com)
 - ⚡ Fun fact: I am an **Antiquary**.
-<!-- - 🤔 I’m looking for help with ... -->
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/roni-boiz/roni-boiz/blob/output/github-contribution-grid-snake.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roni-boiz&label=Profile%20views&color=0e75b6&style=flat" alt="roni-boiz" /> </p>
 
