@@ -67,9 +67,9 @@
 <!--   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> -->
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roni-boiz&show_icons=true&locale=en&layout=compact" alt="roni-boiz" /></p>
+<p><img align="left" src="https://github-readme-stats-beryl.vercel.app/api/top-langs?username=roni-boiz&show_icons=true&locale=en&layout=compact" alt="roni-boiz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roni-boiz&show_icons=true&locale=en" alt="roni-boiz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-beryl.vercel.app/api?username=roni-boiz&show_icons=true&locale=en" alt="roni-boiz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roni-boiz&" alt="roni-boiz" /></p>
 
