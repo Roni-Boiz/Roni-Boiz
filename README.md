@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ronila Sanjula</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roni-boiz" alt="roni-boiz" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=roni-boiz" alt="roni-boiz" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ronilasanjula" target="blank"><img src="https://img.shields.io/twitter/follow/ronilasanjula?logo=twitter&style=for-the-badge" alt="ronilasanjula" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ronilasanjula" target="_blank"><img src="https://img.shields.io/twitter/follow/ronilasanjula?logo=twitter&style=for-the-badge" alt="ronilasanjula" /></a> </p>
 
 - 🔭 I’m currently working on **MERN Stack**
 - 🌱 I’m currently learning **Angular, React, Node, Spring**
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://twitter.com/ronilasanjuula" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ronilasanjuula" height="30" width="40" /></a> 
+<a href="https://twitter.com/ronilasanjula" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ronilasanjula" height="30" width="40" /></a> 
 <a href="https://linkedin.com/in/ronila-sanjula" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronila-sanjula" height="30" width="40" /></a> 
 <a href="https://stackoverflow.com/users/17787646/roni-boiz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="roni-boiz" height="30" width="40" /></a> 
 <a href="https://www.youtube.com/c/ronila" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ronila" height="30" width="40" /></a> 
