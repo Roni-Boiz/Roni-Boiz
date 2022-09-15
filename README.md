@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Swing, JavaFX, Scala, HTML, PHP, CSS, JS, Python, C, C++, SQL**
 - 📫 How to reach me: **contact-me@gmail.com**
-- 📄 Know about my experiences [https://mysite.com](https://mysite.com)
+- 📄 Know about my experiences [https://ronilasanjulalive.com](https://roni-boiz.github.io/ronilasanjulalive/)
 - ⚡ Fun fact: I am an **Antiquary**.
 
 <h3 align="left">Connect with me:</h3>
