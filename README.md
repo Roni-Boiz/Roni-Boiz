@@ -5,10 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/ronilasanjula" target="_blank"><img src="https://img.shields.io/twitter/follow/ronilasanjula?logo=twitter&style=for-the-badge" alt="ronilasanjula" /></a> </p>
 
-- 🔭 I’m currently working on **MERN Stack**
-- 🌱 I’m currently learning **React, Express, Node, Spring**
+- 🔭 I’m currently working on **Spring Boot**
+- 🌱 I’m currently learning **Ontology, Deep Learning, Image Processing, Computer Vision, NLP**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Swing, JavaFX, Scala, HTML, PHP, CSS, JS, Python, C, C++, SQL**
+- 💬 Ask me about **Swing, JavaFX, Scala, HTML, PHP, CSS, JS, Python, C, C++, SQL, React, Express, Node, Flutter**
 - 📫 How to reach me: **contact-me@gmail.com**
 - 📄 Know about my experiences [https://ronilasanjulalive.com](https://roni-boiz.github.io/ronilasanjulalive/)
 - ⚡ Fun fact: I am an **Antiquary**.
