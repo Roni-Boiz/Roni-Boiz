@@ -73,7 +73,7 @@
 
 <p align="center">
   <a style="padding=5" href="https://github-readme-stats.vercel.app/api?username=roni-boiz">
-    <img height=200 align=center src="https://github-readme-stats.vercel.app/api?username=roni-boiz&show_icons=true&locale=en&layout=compact" alt="github stats" />
+    <img height=200 align=center src="https://github-readme-stats.vercel.app/api?username=roni-boiz&show_icons=true&locale=en&layout=compact&rank_icon=github" alt="github stats" />
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=roni-boiz">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roni-boiz&show_icons=true&locale=en&langs_count=8&layout=compact&card_width=320" alt="language stats" />
