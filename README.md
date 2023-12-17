@@ -1,16 +1,18 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=roni-boiz&label=Profile%20views&color=0e75b6&style=flat" alt="roni-boiz" /> </p>
+
 <h1 align="center">Hi 👋, I'm Ronila Sanjula</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=roni-boiz" alt="roni-boiz" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ronilasanjula" target="_blank"><img src="https://img.shields.io/twitter/follow/ronilasanjula?logo=twitter&style=for-the-badge" alt="ronilasanjula" /></a> </p>
+<!--  <p align="left"> <a href="https://twitter.com/ronilasanjula" target="_blank"><img src="https://img.shields.io/twitter/follow/ronilasanjula?logo=twitter&style=for-the-badge" alt="ronilasanjula" /></a> </p> -->
 
 - 🔭 I’m currently working on **Spring Boot**
 - 🌱 I’m currently learning **Ontology, Deep Learning, Image Processing, Computer Vision, NLP**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Swing, JavaFX, Scala, HTML, PHP, CSS, JS, Python, C, C++, SQL, React, Express, Node, Flutter**
-- 📫 How to reach me: **contact-me@gmail.com**
-- 📄 Know about my experiences [https://ronilasanjulalive.com](https://roni-boiz.github.io/ronilasanjulalive/)
+- 📫 How to reach me: **[Social Media: LinkedIn](https://linkedin.com/in/ronila-sanjula/)**
+- 📄 Know about my experiences **[https://ronilasanjulalive.com](https://roni-boiz.github.io/ronilasanjulalive/)**
 - ⚡ Fun fact: I am an **Antiquary**.
 
 <h3 align="left">Connect with me:</h3>
@@ -67,14 +69,23 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats-beryl.vercel.app/api/top-langs?username=roni-boiz&show_icons=true&locale=en&layout=compact" alt="roni-boiz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-beryl.vercel.app/api?username=roni-boiz&show_icons=true&locale=en" alt="roni-boiz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roni-boiz&" alt="roni-boiz" /></p>
+<p align="center">
+  <a style="padding=5" href="https://github-readme-stats.vercel.app/api?username=roni-boiz">
+    <img height=200 align=center src="https://github-readme-stats.vercel.app/api?username=roni-boiz&show_icons=true&locale=en&layout=compact" alt="github stats" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=roni-boiz">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roni-boiz&show_icons=true&locale=en&langs_count=8&layout=compact&card_width=320" alt="language stats" />
+  </a>
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=roni-boiz">
+    <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roni-boiz&card_width=700" alt="streak stats" />
+  </a>
+  <a href="https://github.com/roni-boiz/roni-boiz/blob/output/github-contribution-grid-snake.svg">
+    <img alt="contributions stats" src="https://github.com/roni-boiz/roni-boiz/blob/output/github-contribution-grid-snake.svg" />
+  </a>
+</p>
 
-![snake gif](https://github.com/roni-boiz/roni-boiz/blob/output/github-contribution-grid-snake.svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roni-boiz&label=Profile%20views&color=0e75b6&style=flat" alt="roni-boiz" /> </p>
 
 
