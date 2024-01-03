@@ -21,7 +21,7 @@
   <a href="https://twitter.com/ronilasanjula" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ronilasanjula" height="30" width="40" /></a> 
   <a href="https://linkedin.com/in/ronila-sanjula" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronila-sanjula" height="30" width="40" /></a> 
   <a href="https://stackoverflow.com/users/17787646/roni-boiz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="roni-boiz" height="30" width="40" /></a> 
-  <a href="https://www.youtube.com/c/ronila" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ronila" height="30" width="40" /></a> 
+<!--   <a href="https://www.youtube.com/c/ronila" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ronila" height="30" width="40" /></a>  -->
   <a href="https://www.hackerrank.com/Roni_Boiz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="roni_boiz" height="30" width="40" /></a> 
 </p>
 
