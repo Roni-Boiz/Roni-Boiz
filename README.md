@@ -7,8 +7,8 @@
 
 <!--  <p align="left"> <a href="https://twitter.com/ronilasanjula" target="_blank"><img src="https://img.shields.io/twitter/follow/ronilasanjula?logo=twitter&style=for-the-badge" alt="ronilasanjula" /></a> </p> -->
 
-- 🔭 I’m currently working on **Spring Boot**
-- 🌱 I’m currently learning **Ontology, Deep Learning, Image Processing, Computer Vision, NLP**
+- 🔭 I’m currently working on **Automation and Orchestration**
+- 🌱 I’m currently learning **Jenkins, Kubernetes, AWS, Terraform**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Swing, JavaFX, Scala, HTML, PHP, CSS, JS, Python, C, C++, SQL, React, Express, Node, Flutter**
 - 📫 How to reach me: **[Social Media: LinkedIn](https://linkedin.com/in/ronila-sanjula/)**
